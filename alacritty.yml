@@ -6,7 +6,7 @@ window:
   padding:
     x: 35
     y: 35
-  decorations: buttonless #Still won't show in a window manger, but will in a desktop environment
+  decorations: buttonless # for macOS
 scrolling:
   history: 10000
   multiplier: 3
