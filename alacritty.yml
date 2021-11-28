@@ -20,11 +20,10 @@ font:
     style: Regular
   bold:
     family: Hack Nerd Font Mono
-    style:
-      Bold
-      italic:
-      family: Hack Nerd Font Mono
-      style: Italic
+    style: Bold
+  italic:
+    family: Hack Nerd Font Mono
+    style: Italic
   size: 18
   offset:
     x: 0
